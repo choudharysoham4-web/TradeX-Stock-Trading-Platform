@@ -133,6 +133,36 @@ Transaction History
 - Role Based Access Control
 - Unit Testing
 
+# 📸 API Screenshots
+
+## 🔐 Login API
+
+![Login API](docs/images/login-api.png)
+
+---
+
+## 💰 Buy Stock API
+
+![Buy Stock API](docs/images/buy-stock-api.png)
+
+---
+
+## 📊 Portfolio API
+
+![Portfolio API](docs/images/portfolio-api.png)
+
+---
+
+## 📜 Transaction History API
+
+![Transaction History API](docs/images/transaction-history-api.png)
+
+---
+
+## 👛 Wallet Balance API
+
+![Wallet Balance API](docs/images/wallet-balance-api.png)
+
 ---
 
 ## 👨‍💻 Developer
