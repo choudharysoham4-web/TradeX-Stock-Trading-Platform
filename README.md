@@ -1,5 +1,12 @@
 # 📈 TradeX - Stock Trading Platform
 
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.x-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-JWT-success?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA-59666C?style=for-the-badge&logo=hibernate)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)
+![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven)
+
 ## 📌 Overview
 
 TradeX is a secure stock trading backend application developed using Java and Spring Boot. It allows users to register, log in using JWT authentication, manage a wallet, buy and sell stocks, track their portfolio, and view transaction history.
