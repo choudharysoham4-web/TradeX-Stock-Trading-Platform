@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/tradex-banner.png" alt="TradeX Banner" width="100%">
+</p>
+
 # 📈 TradeX - Stock Trading Platform
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
@@ -12,6 +16,63 @@
 TradeX is a secure stock trading backend application developed using Java and Spring Boot. It allows users to register, log in using JWT authentication, manage a wallet, buy and sell stocks, track their portfolio, and view transaction history.
 
 The project follows a layered architecture using Controllers, Services, Repositories, DTOs, and JPA Entities.
+
+## 📌 Project Highlights
+
+| Feature | Status |
+|----------|--------|
+| JWT Authentication | ✅ |
+| User Registration & Login | ✅ |
+| Wallet Management | ✅ |
+| Buy Stocks | ✅ |
+| Sell Stocks | ✅ |
+| Portfolio Management | ✅ |
+| Profit/Loss Calculation | ✅ |
+| Transaction History | ✅ |
+| Spring Security | ✅ |
+| MySQL Database | ✅ |
+| Hibernate / JPA | ✅ |
+| REST APIs | ✅ |
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Language | Java 21 |
+| Framework | Spring Boot |
+| Security | Spring Security, JWT |
+| Database | MySQL |
+| ORM | Hibernate, Spring Data JPA |
+| Build Tool | Maven |
+| API Testing | Postman |
+| Version Control | Git & GitHub |
+| IDE | IntelliJ IDEA |
+
+## 🏗️ Project Architecture
+
+```
+Client (Postman / Frontend)
+            │
+            ▼
+     REST Controllers
+            │
+            ▼
+      Service Layer
+            │
+            ▼
+ Repository Layer (JPA)
+            │
+            ▼
+      MySQL Database
+```
+## 📂 Project Modules
+
+- 🔐 Authentication Module
+- 💰 Wallet Module
+- 📈 Stock Management Module
+- 📊 Portfolio Module
+- 📜 Transaction Module
+- 🛡 Security Module
 
 ---
 
